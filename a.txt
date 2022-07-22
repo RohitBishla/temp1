@@ -2,3 +2,4 @@ Hello
 bye
 ony username
 only email
+google
