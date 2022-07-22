@@ -2,4 +2,4 @@ Hello
 bye
 ony username
 only email
-it commit --author="John Doe <john@doe.com>" -m "Impersonation is evil."
+divy hacked
